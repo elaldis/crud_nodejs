@@ -1,5 +1,5 @@
 paso a paso 
--descragar los archivos.
+-descargar los archivos.
 -descomprimir.
 -unir la carpeta con el resto de los archivos. 
 -activar apache y mysql en xampp.
